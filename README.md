@@ -1,6 +1,6 @@
 ## 交叉表生成 Skill
 
-- 使用 <https://github.com/antvis/S2> 生成电子表格
+- 使用 <https://github.com/antvis/S2> 生成交叉表
 
 ## 参考资料
 
